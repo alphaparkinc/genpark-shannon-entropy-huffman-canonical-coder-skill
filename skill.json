@@ -1,0 +1,17 @@
+{
+  "name": "genpark-shannon-entropy-huffman-canonical-coder-skill",
+  "version": "1.0.0",
+  "description": "Shannon source entropy analyzer and Canonical Huffman variable-length prefix coding engine for optimal lossless data compression.",
+  "main": "client.py",
+  "mcp_server": "mcp_server.py",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "shannon-entropy",
+    "huffman-coding",
+    "lossless-compression",
+    "prefix-codes",
+    "information-theory"
+  ],
+  "dependencies": []
+}
